@@ -74,6 +74,11 @@ All audio is split into **30-second segments**, which provides:
 
 ---
 
+## 📊 Before vs After Optimization
+
+![comparison](before_after_comparison.png)
+
+> The model shows clear improvement in distinguishing candidates after optimization.
 ## 🖥 Demo (Gradio Interface)
 
 The system provides an interactive UI where users can:
