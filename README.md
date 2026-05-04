@@ -112,6 +112,7 @@ http://127.0.0.1:7860
 ## 📂 Dataset
 
 The dataset is not included due to file size.
+However, the dataset can be reproduced using the provided preprocessing script.
 
 ### To reproduce:
 
@@ -126,5 +127,4 @@ The dataset is not included due to file size.
 ```bash
 python split_audio.py
 ```
-
-This will generate the dataset automatically.
+> Note: The system is designed to work with any piano-style audio dataset.
