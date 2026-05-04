@@ -91,13 +91,23 @@ The system provides an interactive UI where users can:
 
 ```bash
 pip install transformers torch librosa scikit-learn gradio pydub soundfile
+```
+
+---
+
 ## 🚀 Run
 
 ```bash
 python app.py
+```
 
 Then open in your browser:
+
+```text
 http://127.0.0.1:7860
+```
+
+---
 
 ## 📂 Dataset
 
@@ -107,8 +117,14 @@ The dataset is not included due to file size.
 
 1. Place raw audio files in:
 
-```bash
+```text
 /raw_music/
+```
 
-2. Run
+2. Run:
+
+```bash
 python split_audio.py
+```
+
+This will generate the dataset automatically.
