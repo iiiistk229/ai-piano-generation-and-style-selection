@@ -83,8 +83,17 @@ All audio is split into **30-second segments**, which provides:
 ## 📊 Before vs After Optimization
 
 ![comparison](before_after_comparison.png)
+The model shows clear improvement in distinguishing candidates after optimization.
 
-> The model shows clear improvement in distinguishing candidates after optimization.
+## 📈 Style Comparison Across Emotional Categories
+
+![Emotional Style Comparison](emotional_style_scores_comparison.png)
+
+The chart compares the average and best style matching scores across six emotional categories.
+Nostalgic and peaceful prompts achieved the highest overall performance, while dark and emotional prompts showed greater variability.
+
+---
+
 ## 🖥 Demo (Gradio Interface)
 
 The system provides an interactive UI where users can:
