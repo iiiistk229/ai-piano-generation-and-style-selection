@@ -4,6 +4,12 @@
 
 ---
 
+## 🎥 Demo Video
+
+[Watch the project demonstration on YouTube](https://youtu.be/JLCjSVxRrRE)
+
+---
+
 ## 🚀 Overview
 
 This project implements an AI-based piano music generation system with style-based selection.
