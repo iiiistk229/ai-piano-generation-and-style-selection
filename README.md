@@ -83,6 +83,7 @@ All audio is split into **30-second segments**, which provides:
 ## 📊 Before vs After Optimization
 
 ![comparison](before_after_comparison.png)
+
 The model shows clear improvement in distinguishing candidates after optimization.
 
 ## 📈 Style Comparison Across Emotional Categories
